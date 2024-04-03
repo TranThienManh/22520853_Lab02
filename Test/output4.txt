@@ -1,0 +1,21 @@
+Name: Trần Thiện Mạnh
+ID: 22520853
+Phone: 0945164608
+Course 1: 9
+Course 2: 9
+Course 3: 9
+
+Name: Trần Thiện Mạnh
+ID: 22520853
+Phone: 0945164608
+Course 1: 8
+Course 2: 8
+Course 3: 8
+
+Name: Trần Thiện Mạnh
+ID: 22520853
+Phone: 0945164608
+Course 1: 7
+Course 2: 8
+Course 3: 9
+
